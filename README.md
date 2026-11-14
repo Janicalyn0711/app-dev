@@ -1,5 +1,8 @@
 # app-dev
 My first repository
+
+<img width="1400" height="782" alt="Fast_Furious_-_Vin_Diesel_-_Dwayne_Rock_Johnson_-_Hollywood_Action_Movie_Poster_2ba1fb28-cfd7-4875-9b5d-51a84e0fa58d" src="https://github.com/user-attachments/assets/0b6e9ad1-36ff-4caa-ac15-d8531cc793cc" />
+
 - Favorite Movie: Fast and Furious
   
 # Fast and Furious
